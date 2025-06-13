@@ -83,8 +83,6 @@ Browse Categories - 10+ content categories
 Search Content - Real-time search functionality
 Watch Trailers - YouTube trailer integration
 Add to Watchlist - Personal "My List" feature
-🌐 Live Demo
-🔗 View Live Demo : https://shorturl.at/2xoMW
 
 📂 Project Structure
 netflix-clone/
