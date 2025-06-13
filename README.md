@@ -1,10 +1,3 @@
-# Here are your Instructions
-🌐 Your Live Deployment Link
-🔗 Live Netflix Clone:
-
-https://shorturl.at/2xoMW
-Your Netflix clone is already live and accessible! 🎉
-
 # 🎬 Netflix Clone - Enhanced Streaming Experience
 
 A pixel-perfect Netflix clone built with React that replicates the authentic Netflix experience with real movie data, search functionality, user profiles, and YouTube trailer integration.
@@ -91,7 +84,7 @@ Search Content - Real-time search functionality
 Watch Trailers - YouTube trailer integration
 Add to Watchlist - Personal "My List" feature
 🌐 Live Demo
-🔗 View Live Demo
+🔗 View Live Demo : https://shorturl.at/2xoMW
 
 📂 Project Structure
 netflix-clone/
