@@ -1,38 +1,50 @@
 .App {
-    text-align: center;
-}
-
-.App-logo {
-    height: 40vmin;
-    pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-    .App-logo {
-        animation: App-logo-spin infinite 20s linear;
-    }
+  background-color: #000;
+  color: #fff;
+  min-height: 100vh;
 }
 
 .App-header {
-    background-color: #0f0f10;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-size: calc(10px + 2vmin);
-    color: white;
+  background-color: #141414;
+  padding: 20px;
+  color: white;
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .App-link {
-    color: #61dafb;
+  color: #E50914;
 }
 
-@keyframes App-logo-spin {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
+.App-link img {
+  height: 120px;
+  pointer-events: none;
+  border-radius: 50%;
+}
+
+/* Netflix-specific styles */
+.netflix-gradient {
+  background: linear-gradient(135deg, #000000 0%, #141414 100%);
+}
+
+.netflix-card-hover {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.netflix-card-hover:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+}
+
+.netflix-scroll {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.netflix-scroll::-webkit-scrollbar {
+  display: none;
 }
