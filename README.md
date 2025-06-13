@@ -2,10 +2,9 @@
 🌐 Your Live Deployment Link
 🔗 Live Netflix Clone:
 
-https://2b96bd93-dbb1-44be-8c07-8210ef792c1b.preview.emergentagent.com
+https://shorturl.at/2xoMW
 Your Netflix clone is already live and accessible! 🎉
 
-📝 README.md Content (Copy & Paste)
 # 🎬 Netflix Clone - Enhanced Streaming Experience
 
 A pixel-perfect Netflix clone built with React that replicates the authentic Netflix experience with real movie data, search functionality, user profiles, and YouTube trailer integration.
