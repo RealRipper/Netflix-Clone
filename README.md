@@ -84,6 +84,8 @@ Search Content - Real-time search functionality
 Watch Trailers - YouTube trailer integration
 Add to Watchlist - Personal "My List" feature
 
+Live Link : https://netflix-clone-gamma-sand-41.vercel.app/
+
 📂 Project Structure
 netflix-clone/
 ├── frontend/
